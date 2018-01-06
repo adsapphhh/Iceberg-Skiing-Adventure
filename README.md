@@ -1,5 +1,5 @@
 # Iceberg-Skiing-Adventure
-In the game, you are participating in an interesting golf match. You need to control the intensity and angle of the launch and pass the golf balls into the hole. The fewer the rods, the higher the score.
+This is a great challenge for skiing. The goal of the player is to control the skiing man jumping up and down and avoiding all the obstacles in the course of the skiing. Get more gold coins to achieve higher results!
 ![Alt text](https://github.com/appdev-support/Golf/blob/master/0x0ss%20(1).jpg)
 Framework
 
