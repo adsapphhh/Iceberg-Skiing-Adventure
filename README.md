@@ -1,6 +1,6 @@
 # Iceberg-Skiing-Adventure
 This is a great challenge for skiing. The goal of the player is to control the skiing man jumping up and down and avoiding all the obstacles in the course of the skiing. Get more gold coins to achieve higher results!
-![Alt text](https://github.com/appdev-support/Golf/blob/master/0x0ss%20(1).jpg)
+![Alt text](https://github.com/appdev-support/Iceberg-Skiing-Adventure/blob/master/IMG_0392.PNG)
 Framework
 
 Center center server
